@@ -1,3 +1,4 @@
+
 # 🔴 Flutter Pokedex
 
 A modern, feature-rich Pokedex application built with **Flutter** and **Clean Architecture**. This project demonstrates advanced state management using **BLoC/Cubit**, optimized UI rendering, and seamless animations.
@@ -14,6 +15,9 @@ A modern, feature-rich Pokedex application built with **Flutter** and **Clean Ar
 <div align="center">
   <img src="https://via.placeholder.com/300x600?text=Upload+Your+Demo+Here" alt="App Demo" width="300" />
 </div>
+![Screenshot_2025-11-21-03-17-44-61_b6c29ea0c0e65253fd90bb894465f0e2 1](https://github.com/user-attachments/assets/e4d63009-d058-4c3e-8df7-cd0f19d33cab)![Screenshot_2025-11-21-03-17-50-40_b6c29ea0c0e65253fd90bb894465f0e2 1](https://github.com/user-attachments/assets/551c95da-6ffd-459a-b01c-de2a90ba2e95)
+![Screenshot_2025-11-21-03-17-44-61_b6c29ea0c0e65253fd90bb894465f0e2 1](https://github.com/user-attachments/assets/e4d63009-d058-4c3e-8df7-cd0f19d33cab)
+
 
 ---
 
